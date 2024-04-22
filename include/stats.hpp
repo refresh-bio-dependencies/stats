@@ -21,7 +21,7 @@
 #ifndef _statslib_HPP
 #define _statslib_HPP
 
-#include "gcem.hpp"
+#include "../../gcem/include/gcem.hpp"
 #include "stats_incl/misc/statslib_options.hpp"
 
 namespace stats
